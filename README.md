@@ -1,7 +1,7 @@
 **Knight_DotLasher⚔️**                                    
 
-![bgimg2](https://github.com/Vidhanvyrs/testrepo/assets/94836010/e40f8571-e6f9-438a-91b0-48be7d351dde)
-     [**💖 Follow Me!**](https://github.com/Vidhanvyrs)
+![image](https://github.com/Vidhanvyrs/Vidhanvyrs/assets/94836010/aeb1f59f-6a56-4fb8-a45e-8adf4af55c24)
+ [**💖 Follow Me!**](https://github.com/Vidhanvyrs)
 
 I'm just a guy looking to make my developer workflow more awesome✨. In love💘 with JS, React, Vim & F1. Here to make myself give back to the community🤗 by contributing to Open Source🚀 plus Learning New Technologies 👨‍💻 during this journey🗺️.
 
