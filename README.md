@@ -1,6 +1,6 @@
 **Knight_DotLasher⚔️**                                    
 
-![acdc](https://github.com/Vidhanvyrs/Vidhanvyrs/assets/94836010/77f6f8e6-1a69-4bde-bbd8-0d98687f65a7)
+![siliconvalley](https://github.com/Vidhanvyrs/Vidhanvyrs/assets/94836010/b09ba011-9275-43bf-8776-f476539a5158)
 [**💖 Follow Me!**](https://github.com/Vidhanvyrs)
 
 I'm just a guy looking to make my developer workflow more awesome✨. In love💘 with JS, React & Vim. Huge fan of F1, Anime and Movies. Here to make myself give back to the community🤗 by contributing to Open Source🚀 plus Learning New Technologies 👨‍💻 during this journey🗺️.
