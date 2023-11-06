@@ -10,3 +10,4 @@ I'm just a guy looking to make my developer workflow more awesomeâœ¨. In loveðŸ’
 
 
 
+[![An image of @vidhanvyrs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhanvyrs)](https://holopin.io/@vidhanvyrs)
