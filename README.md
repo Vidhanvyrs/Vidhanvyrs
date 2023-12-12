@@ -8,7 +8,7 @@ I'm just a guy looking to make my developer workflow more awesomeâœ¨. In loveðŸ’
 
 ![naruto](https://github.com/Vidhanvyrs/Vidhanvyrs/assets/94836010/4d93ac80-db23-4475-8efe-87fae820ba57)
 
-
+**HardWork** - "Thats My Ninja Way"
 
 [![An image of @vidhanvyrs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhanvyrs)](https://holopin.io/@vidhanvyrs)
 
