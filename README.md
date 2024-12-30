@@ -12,7 +12,7 @@ I'm just a guy looking to make my developer workflow more awesome✨. In love�
 **HardWork** - "Thats My Ninja Way"
 
 [![An image of @vidhanvyrs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhanvyrs)](https://holopin.io/@vidhanvyrs)
-😵😵😵😵😵😵😵😵😵😵😵😵😵😵😵😎
+
 ![Screenshot 2024-06-01 194127](https://github.com/Vidhanvyrs/Vidhanvyrs/assets/94836010/b383f4be-0ebc-43b4-8916-f96006d25678)
 
 **SHOW SOME ❤️ BY STARRING MY REPOS 😄**
