@@ -4,6 +4,8 @@
 
 I'm just a guy looking to make my developer workflow more awesome✨. In love💘 with Computers & Programming. Huge fan of F1, Anime's and Movies. Professional Yapper! Here to make myself give back to the community🤗 by contributing to Open Source Projects🚀, building performant projects⚒️, understanding memory📝, plus Learning New Technologies👨‍💻 Ad-Hoc🗺️.
 
+Also I am kindaa doing Freelance work as well So Check'em out [here](https://www.fiverr.com/s/Egav2D0). If you like it then do ping ME!
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31detroj2jhzsghqraeggc7ix75u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![MJ](https://github.com/user-attachments/assets/ca7e18ca-3960-4ddd-aba6-0113544ee140)
