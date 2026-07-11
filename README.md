@@ -2,9 +2,12 @@
 
 [**💖 Follow Me!**](https://x.com/DotLasher?t=jFg80mUOSkemB1PrgpCeCQ&s=08)
 
-I'm just a guy looking to make my developer workflow more awesome✨. In love💘 with Computers & Programming. Huge fan of F1, Anime's and Movies. Professional Yapper! Here to make myself give back to the community🤗 by contributing to Open Source Projects🚀, building performant projects⚒️, understanding memory📝, plus Learning New Technologies👨‍💻 Ad-Hoc🗺️.
+I'm just a guy looking to make my developer workflow more awesome. In love with Computers & Programming. Huge fan of F1, Anime's and Movies. Professional Yapper! Here to make myself give back to the community by contributing to Open Source Projects, building performant projects, understanding memory, plus Learning New Technologies👨‍💻 Ad-Hoc.
 
 Also I am kindaa looking for some cool palce and cool people to work with. If you see me fit your team then do ping ME!
+My main tick is that on a weekend you'll prolly find me in my dorm Developing some out-of-the-box ideas which will somehow see the light of the launch lol 😂 or working on a cool project with a senior .
+
+Anyways, Here to Explore this world of Engineering & Technology and to build cool stuff n break boundaries 🌐. If you feel we can have something to work along, ping me so that AI won't replace me
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31detroj2jhzsghqraeggc7ix75u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
